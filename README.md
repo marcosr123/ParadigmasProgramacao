@@ -6,4 +6,4 @@
 		-Luis Ricardo Santos Britto
 		-Marcos Richard Barros Cutrim
 		-Paulo César Souza Rubim Filho
-		-Vitor Augusto dos Santos Muniz
+		-Nizar Mohsen Felix Mota

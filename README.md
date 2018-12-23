@@ -7,3 +7,4 @@
 		-Marcos Richard Barros Cutrim
 		-Paulo César Souza Rubim Filho
 		-Nizar Mohsen Felix Mota
+		-João Victor Pinto Gonçalves 
